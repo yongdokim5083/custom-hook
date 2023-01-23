@@ -1,0 +1,37 @@
+.advice {
+  max-width: 40rem;
+  margin: 3rem auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: bold;
+  color: aquamarine;
+}
+
+.body {
+  color: white;
+}
+
+.divider img {
+  width: 100%;
+}
+
+.dice {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: -20px auto;
+  width: 70px;
+  height: 70px;
+  background: aquamarine;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.dice img {
+  background: aquamarine;
+  vertical-align: middle;
+}
